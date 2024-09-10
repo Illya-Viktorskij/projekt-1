@@ -8,6 +8,7 @@ print(name)
 print(surname) #Вивід в консоль
 print(age)
 
+print(type(bebra))
 print(type(name))
 print(type(surname))    #Визначеня типу
 print(type(age))

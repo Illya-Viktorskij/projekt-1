@@ -12,3 +12,4 @@ print(type(bebra))
 print(type(name))
 print(type(surname))    #Визначеня типу
 print(type(age))
+derrgdergedargh
